@@ -1,0 +1,40 @@
+bin_id,bin_type,address_city,location_latitude,location_longitude,battery_level_percent,bin_status,time_of_day,fill_level_percent,timestamp
+BIN-004,residential_dense,Zarqa,32.0741,36.0887,82,normal,Morning,62,2026-02-10 08:00:00
+BIN-004,residential_dense,Zarqa,32.0741,36.0887,81,normal,Afternoon,71,2026-02-11 14:00:00
+BIN-004,residential_dense,Zarqa,32.0741,36.0887,80,normal,Evening,79,2026-02-12 20:00:00
+
+BIN-006,residential_dense,Zarqa,32.0738,36.0895,84,normal,Morning,58,2026-02-10 09:00:00
+BIN-006,residential_dense,Zarqa,32.0738,36.0895,83,normal,Afternoon,69,2026-02-11 15:00:00
+BIN-006,residential_dense,Zarqa,32.0738,36.0895,82,normal,Evening,77,2026-02-12 19:00:00
+
+BIN-007,residential_dense,Zarqa,32.0732,36.0901,86,normal,Morning,60,2026-02-10 08:30:00
+BIN-007,residential_dense,Zarqa,32.0732,36.0901,85,normal,Afternoon,72,2026-02-11 14:20:00
+BIN-007,residential_dense,Zarqa,32.0732,36.0901,84,normal,Evening,81,2026-02-12 20:30:00
+
+BIN-005,residential_dense,Zarqa,32.0745,36.0890,80,normal,Morning,57,2026-02-10 08:10:00
+BIN-005,residential_dense,Zarqa,32.0745,36.0890,79,normal,Afternoon,66,2026-02-11 14:10:00
+BIN-005,residential_dense,Zarqa,32.0745,36.0890,78,normal,Evening,75,2026-02-12 20:05:00
+
+BIN-009,residential_dense,Zarqa,32.0748,36.0898,83,normal,Morning,63,2026-02-10 09:20:00
+BIN-009,residential_dense,Zarqa,32.0748,36.0898,82,normal,Afternoon,73,2026-02-11 15:10:00
+BIN-009,residential_dense,Zarqa,32.0748,36.0898,81,normal,Evening,84,2026-02-12 21:00:00
+
+BIN-011,commercial,Zarqa,32.0729,36.0879,88,normal,Morning,68,2026-02-10 10:00:00
+BIN-011,commercial,Zarqa,32.0729,36.0879,87,normal,Afternoon,79,2026-02-11 16:00:00
+BIN-011,commercial,Zarqa,32.0729,36.0879,86,normal,Evening,89,2026-02-12 21:30:00
+
+BIN-015,commercial,Zarqa,32.0736,36.0882,87,normal,Morning,70,2026-02-10 10:10:00
+BIN-015,commercial,Zarqa,32.0736,36.0882,86,normal,Afternoon,82,2026-02-11 16:10:00
+BIN-015,commercial,Zarqa,32.0736,36.0882,85,normal,Evening,91,2026-02-12 22:00:00
+
+BIN-012,commercial,Zarqa,32.0731,36.0873,89,normal,Morning,66,2026-02-10 09:40:00
+BIN-012,commercial,Zarqa,32.0731,36.0873,88,normal,Afternoon,77,2026-02-11 15:40:00
+BIN-012,commercial,Zarqa,32.0731,36.0873,87,normal,Evening,88,2026-02-12 20:50:00
+
+BIN-020,residential_quiet,Zarqa,32.0753,36.0904,78,normal,Morning,42,2026-02-10 08:15:00
+BIN-020,residential_quiet,Zarqa,32.0753,36.0904,77,normal,Afternoon,53,2026-02-11 14:30:00
+BIN-020,residential_quiet,Zarqa,32.0753,36.0904,76,normal,Evening,61,2026-02-12 19:45:00
+
+BIN-017,residential_quiet,Zarqa,32.0750,36.0896,79,normal,Morning,39,2026-02-10 08:25:00
+BIN-017,residential_quiet,Zarqa,32.0750,36.0896,78,normal,Afternoon,49,2026-02-11 14:45:00
+BIN-017,residential_quiet,Zarqa,32.0750,36.0896,77,normal,Evening,58,2026-02-12 20:10:00

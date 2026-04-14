@@ -1,0 +1,20 @@
+[
+  {
+    "bin_id": "BIN-004",
+    "predicted_fill": 91.2,
+    "selected_for_collection": true,
+    "prediction_reason": "Predicted to exceed 85% by route time"
+  },
+  {
+    "bin_id": "BIN-006",
+    "predicted_fill": 88.1,
+    "selected_for_collection": true,
+    "prediction_reason": "High fill trend"
+  },
+  {
+    "bin_id": "BIN-007",
+    "predicted_fill": 86.4,
+    "selected_for_collection": true,
+    "prediction_reason": "Commercial bin fills quickly"
+  }
+]

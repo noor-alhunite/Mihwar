@@ -1,0 +1,50 @@
+{
+  "round_1": [
+    {"bin_id": "BIN-015", "predicted_fill": 88.2, "location_latitude": 32.0732, "location_longitude": 36.0881, "bin_type": "commercial", "prediction_reason": "Round 1 commercial"},
+    {"bin_id": "BIN-011", "predicted_fill": 86.5, "location_latitude": 32.0729, "location_longitude": 36.0879, "bin_type": "commercial", "prediction_reason": "Round 1 commercial"},
+    {"bin_id": "BIN-004", "predicted_fill": 85.1, "location_latitude": 32.0725, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 1 dense"},
+    {"bin_id": "BIN-006", "predicted_fill": 84.0, "location_latitude": 32.07295, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 1 dense"},
+    {"bin_id": "BIN-012", "predicted_fill": 82.3, "location_latitude": 32.0735, "location_longitude": 36.0883, "bin_type": "commercial", "prediction_reason": "Round 1 commercial"},
+    {"bin_id": "BIN-007", "predicted_fill": 81.0, "location_latitude": 32.0734, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 1 dense"},
+    {"bin_id": "BIN-005", "predicted_fill": 79.5, "location_latitude": 32.07295, "location_longitude": 36.0868, "bin_type": "residential_dense", "prediction_reason": "Round 1 dense"},
+    {"bin_id": "BIN-009", "predicted_fill": 78.2, "location_latitude": 32.07295, "location_longitude": 36.0876, "bin_type": "residential_dense", "prediction_reason": "Round 1 dense"},
+    {"bin_id": "BIN-020", "predicted_fill": 76.0, "location_latitude": 32.0736, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 1 quiet"},
+    {"bin_id": "BIN-017", "predicted_fill": 74.5, "location_latitude": 32.074, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 1 quiet"}
+  ],
+  "round_2": [
+    {"bin_id": "BIN-011", "predicted_fill": 90.1, "location_latitude": 32.0729, "location_longitude": 36.0879, "bin_type": "commercial", "prediction_reason": "Round 2 commercial"},
+    {"bin_id": "BIN-012", "predicted_fill": 89.0, "location_latitude": 32.0735, "location_longitude": 36.0883, "bin_type": "commercial", "prediction_reason": "Round 2 commercial"},
+    {"bin_id": "BIN-007", "predicted_fill": 87.2, "location_latitude": 32.0734, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 2 dense"},
+    {"bin_id": "BIN-020", "predicted_fill": 86.0, "location_latitude": 32.0736, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 2 quiet"},
+    {"bin_id": "BIN-015", "predicted_fill": 84.5, "location_latitude": 32.0732, "location_longitude": 36.0881, "bin_type": "commercial", "prediction_reason": "Round 2 commercial"},
+    {"bin_id": "BIN-004", "predicted_fill": 83.1, "location_latitude": 32.0725, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 2 dense"},
+    {"bin_id": "BIN-006", "predicted_fill": 81.8, "location_latitude": 32.07295, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 2 dense"},
+    {"bin_id": "BIN-005", "predicted_fill": 80.2, "location_latitude": 32.07295, "location_longitude": 36.0868, "bin_type": "residential_dense", "prediction_reason": "Round 2 dense"},
+    {"bin_id": "BIN-009", "predicted_fill": 78.9, "location_latitude": 32.07295, "location_longitude": 36.0876, "bin_type": "residential_dense", "prediction_reason": "Round 2 dense"},
+    {"bin_id": "BIN-017", "predicted_fill": 77.0, "location_latitude": 32.074, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 2 quiet"}
+  ],
+  "round_3": [
+    {"bin_id": "BIN-004", "predicted_fill": 91.0, "location_latitude": 32.0725, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 3 dense"},
+    {"bin_id": "BIN-007", "predicted_fill": 89.5, "location_latitude": 32.0734, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 3 dense"},
+    {"bin_id": "BIN-011", "predicted_fill": 88.2, "location_latitude": 32.0729, "location_longitude": 36.0879, "bin_type": "commercial", "prediction_reason": "Round 3 commercial"},
+    {"bin_id": "BIN-015", "predicted_fill": 86.8, "location_latitude": 32.0732, "location_longitude": 36.0881, "bin_type": "commercial", "prediction_reason": "Round 3 commercial"},
+    {"bin_id": "BIN-020", "predicted_fill": 85.0, "location_latitude": 32.0736, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 3 quiet"},
+    {"bin_id": "BIN-012", "predicted_fill": 83.5, "location_latitude": 32.0735, "location_longitude": 36.0883, "bin_type": "commercial", "prediction_reason": "Round 3 commercial"},
+    {"bin_id": "BIN-006", "predicted_fill": 82.1, "location_latitude": 32.07295, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 3 dense"},
+    {"bin_id": "BIN-005", "predicted_fill": 80.7, "location_latitude": 32.07295, "location_longitude": 36.0868, "bin_type": "residential_dense", "prediction_reason": "Round 3 dense"},
+    {"bin_id": "BIN-009", "predicted_fill": 79.3, "location_latitude": 32.07295, "location_longitude": 36.0876, "bin_type": "residential_dense", "prediction_reason": "Round 3 dense"},
+    {"bin_id": "BIN-017", "predicted_fill": 77.8, "location_latitude": 32.074, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 3 quiet"}
+  ],
+  "round_4": [
+    {"bin_id": "BIN-011", "predicted_fill": 92.0, "location_latitude": 32.0729, "location_longitude": 36.0879, "bin_type": "commercial", "prediction_reason": "Round 4 commercial"},
+    {"bin_id": "BIN-015", "predicted_fill": 90.5, "location_latitude": 32.0732, "location_longitude": 36.0881, "bin_type": "commercial", "prediction_reason": "Round 4 commercial"},
+    {"bin_id": "BIN-012", "predicted_fill": 89.2, "location_latitude": 32.0735, "location_longitude": 36.0883, "bin_type": "commercial", "prediction_reason": "Round 4 commercial"},
+    {"bin_id": "BIN-004", "predicted_fill": 87.0, "location_latitude": 32.0725, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 4 dense"},
+    {"bin_id": "BIN-006", "predicted_fill": 85.5, "location_latitude": 32.07295, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 4 dense"},
+    {"bin_id": "BIN-007", "predicted_fill": 84.0, "location_latitude": 32.0734, "location_longitude": 36.0872, "bin_type": "residential_dense", "prediction_reason": "Round 4 dense"},
+    {"bin_id": "BIN-005", "predicted_fill": 82.5, "location_latitude": 32.07295, "location_longitude": 36.0868, "bin_type": "residential_dense", "prediction_reason": "Round 4 dense"},
+    {"bin_id": "BIN-009", "predicted_fill": 81.0, "location_latitude": 32.07295, "location_longitude": 36.0876, "bin_type": "residential_dense", "prediction_reason": "Round 4 dense"},
+    {"bin_id": "BIN-020", "predicted_fill": 79.2, "location_latitude": 32.0736, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 4 quiet"},
+    {"bin_id": "BIN-017", "predicted_fill": 77.5, "location_latitude": 32.074, "location_longitude": 36.0869, "bin_type": "residential_quiet", "prediction_reason": "Round 4 quiet"}
+  ]
+}

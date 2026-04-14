@@ -1,0 +1,29 @@
+[
+  {
+    "bin_id": "BIN-015",
+    "predicted_fill": 86.4,
+    "selected_for_collection": true,
+    "prediction_reason": "منطقة تجارية تمتلئ أسرع | آخر قراءة كانت مرتفعة | هناك ارتفاع مستمر في الامتلاء | المتوسط في آخر القراءات مرتفع | متوقع أن تصل إلى 85% أو أكثر وقت الجولة",
+    "location_latitude": 32.0736,
+    "location_longitude": 36.0882,
+    "bin_type": "commercial"
+  },
+  {
+    "bin_id": "BIN-011",
+    "predicted_fill": 86.2,
+    "selected_for_collection": true,
+    "prediction_reason": "منطقة تجارية تمتلئ أسرع | آخر قراءة كانت مرتفعة | هناك ارتفاع مستمر في الامتلاء | المتوسط في آخر القراءات مرتفع | متوقع أن تصل إلى 85% أو أكثر وقت الجولة",
+    "location_latitude": 32.0729,
+    "location_longitude": 36.0879,
+    "bin_type": "commercial"
+  },
+  {
+    "bin_id": "BIN-012",
+    "predicted_fill": 85.5,
+    "selected_for_collection": true,
+    "prediction_reason": "منطقة تجارية تمتلئ أسرع | آخر قراءة كانت مرتفعة | معدل الامتلاء ارتفع بسرعة | المتوسط في آخر القراءات مرتفع | متوقع أن تصل إلى 85% أو أكثر وقت الجولة",
+    "location_latitude": 32.0731,
+    "location_longitude": 36.0873,
+    "bin_type": "commercial"
+  }
+]
