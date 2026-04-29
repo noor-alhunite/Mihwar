@@ -1,16 +1,10 @@
-# msar_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mihwar - Smart Waste Management System
+Mihwar (WasteApp) is a Flutter-based platform designed for municipal waste collection management. The application demonstrates the transition from traditional collection methods to a predictive, data-driven smart solution.
+Core Functionality
+The system focuses on optimizing waste collection by predicting container fill levels and prioritizing high-urgency locations. This approach reduces operational costs, saves fuel, and optimizes time by skipping containers that do not require immediate service.
+Key Features
+Predictive Analytics: Prioritizes containers based on fill-level predictions using local data models.
+Smart Routing: Integrated mapping and navigation to provide drivers with optimized collection paths.
+Role-Based Interfaces: Dedicated dashboards for Drivers (navigation and status), Supervisors (performance and compliance), and Managers (high-level analytics).
+Comparative Demo: Features a side-by-side comparison between traditional operations and the smart predictive solution.
+Bilingual Support: Full Arabic and English localization.
